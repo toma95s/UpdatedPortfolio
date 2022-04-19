@@ -1,7 +1,93 @@
-body{
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 10px;
+* {
+    box-sizing: border-box;
+  }
+  
+  /*body styling*/
+
+body {
+    font-family: Courier sans-serif;
+    margin: 0;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+  }
+
+header h1{
+    color: black;
+    text-align: right;
+
 }
-*{
-    box-sizing: content-box;
+header img{
+    width:100px;
+    height: 100px;
+    float: right;
 }
+
+/*Nav Bar*/
+
+nav {
+    display: flex;
+    background-color: gainsboro;
+  }
+
+nav a{
+    color:black;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    text-decoration-style: solid;
+    font-size: larger;
+}
+
+h1{
+    text-align:right ;
+    font-size: larger;
+    text-decoration:wavy
+
+
+}
+.aboutMe p{
+    text-align: center;
+    font-size: large;
+    
+}
+/*
+.work{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+*/
+
+.flex-container {
+    display: flexbox;
+    flex-direction:row ;
+    background-color: cadetblue;
+  }
+  @media (max-width: 800px) {
+    .flex-container {
+      flex-direction: column;
+    }
+
+  }
+
+.flex-child{
+    width: 50px; 
+    height: 40px; 
+    margin: 141px 0px;
+
+}
+.flex-child a{
+    flex-wrap:wrap
+}
+/*
+.project2 a{
+    width: 50px;
+    height: 40px; 
+    margin: 141px 0px;
+}*/
+
+  .contactMe{
+    text-align: right;
+    font-size: large;
+  }
