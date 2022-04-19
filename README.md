@@ -4,8 +4,14 @@ Deployed Link: https://toma95s.github.io/UpdatedPortfolio/
 Git: https://github.com/toma95s/UpdatedPortfolio
 
 Here you can find an updated portfolio of my bootcamp coursework. In three weeks we have learned how to implent HTML, CSS and Javascript. We were grouped with team mates to complete Project One which also taught us a lot about working together which is showcased in our laaw investment tracker. 
+You can find my resume, my LinkedIn and contact information in this updated portfolio.
+
 
 Technologies Used: HTML and CSS
+
+<img width="485" alt="Screen Shot 2022-04-18 at 11 31 38 PM" src="https://user-images.githubusercontent.com/101033224/163940229-cd6e5ad9-e887-4770-aaf5-b7af0b3fa768.png">
+<img width="487" alt="Screen Shot 2022-04-18 at 11 34 00 PM" src="https://user-images.githubusercontent.com/101033224/163940563-d4aed91d-b952-47ec-8b4a-aa351e4f6811.png">
+
 
 MIT License
 
